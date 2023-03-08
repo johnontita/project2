@@ -1,0 +1,13 @@
+.padding{
+    border: 1px solid black;
+    padding: 95px 35px ;
+    background-color:gray;
+    position:absolute;
+    top:19rem;
+    left: 35rem;
+    
+}
+a{
+    color:gold;
+    font-size: larger;
+}
